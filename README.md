@@ -1,6 +1,8 @@
-# Real-Time Geofence Color Validator
+## [Real-Time Geofence Color Validator](https://map-khaki-seven.vercel.app/)
 
 A lightweight web tool for drawing geofences and testing color visibility on a map in real time to validate production accuracy.
+<img width="1728" height="973" alt="image" src="https://github.com/user-attachments/assets/79234e68-9c73-4a53-8199-8874dcbbbacf" />
+
 
 ## Overview
 This project uses pure HTML, CSS, and JavaScript to render interactive maps. It allows users to draw geofence boundaries, apply dynamic colors, and instantly compare the visual output against production data to determine the most effective color schemes.
@@ -16,16 +18,5 @@ This project uses pure HTML, CSS, and JavaScript to render interactive maps. It 
 - **HTML5**: Structure and map container.
 - **CSS3**: Styling for UI controls and map overlays.
 - **JavaScript (ES6+)**: Logic for drawing, color management, and map interaction.
-- **Mapping Library**: Leaflet.js or Mapbox GL JS (via CDN).
 
-## Getting Started
-
-### Prerequisites
-- A modern web browser.
-- A valid API key for your mapping provider (e.g., Leaflet is free, Mapbox requires a token).
-
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/geofence-validator.git
-   cd geofence-validator
+## Link - https://map-khaki-seven.vercel.app/
